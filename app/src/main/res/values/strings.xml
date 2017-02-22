@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">UdaProject1</string>
+    <string name="app_name">KEN\'S PIZZA</string>
+    <string name="welcome_string">Welcome To Ken\'s Pizza!</string>
+    <string name="shop_detail">Wonderful Pizza is waiting for you!</string>
+    <string name="shop_name">Ken\'s Pizza!</string>
+    <string name="shop_address">Address:WuHan, Hubei</string>
+    <string name="shop_tel">Tel:027-88880000</string>
 </resources>
